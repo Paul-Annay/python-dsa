@@ -1,6 +1,7 @@
-values = []
-weights = []
-weight = None
+values = [1, 2, 3]
+weights = [1, 2, 3]
+
+weight = 3
 
 
 def knapsack(weight, index):
